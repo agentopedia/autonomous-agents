@@ -34,7 +34,7 @@ This approach allows for maintaining context across sessions, adaptive personali
 Please get `MEM0_API_KEY` from [Mem0 Platform](https://app.mem0.ai/).
 """
 
-pip install pyautogen mem0ai
+pip install ag2 mem0ai
 
 import os
 
